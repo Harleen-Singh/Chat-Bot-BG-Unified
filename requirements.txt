@@ -1,0 +1,62 @@
+absl-py==0.9.0
+asgiref==3.2.7
+astunparse==1.6.3
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1589982006730/work
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+click==7.1.2
+cryptography==2.9.2
+Django==3.0.3
+djangorestframework==3.11.0
+gast==0.3.3
+google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1591972253089/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.2.0
+grpcio==1.27.2
+h5py==2.10.0
+idna==2.9
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1591451751445/work
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+Mako==1.1.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
+MarkupSafe==1.1.1
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1591485215893/work
+oauthlib==3.0.1
+olefile==0.46
+opt-einsum==0+untagged.56.g2664021.dirty
+Pillow==7.1.2
+protobuf==3.12.3
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser==2.20
+pygpu==0.7.6
+PyJWT==1.7.1
+pyOpenSSL==19.1.0
+PySocks==1.7.1
+pytz==2020.1
+PyYAML==5.3.1
+regex @ file:///tmp/build/80754af9/regex_1596829692676/work
+requests==2.23.0
+requests-oauthlib==1.2.0
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1591990902901/work
+scipy==1.4.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+sqlparse==0.3.1
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.2.0
+tensorflow-estimator==2.2.0
+termcolor==1.1.0
+Theano==1.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
+urllib3==1.25.9
+Werkzeug==1.0.1
+wrapt==1.12.1
+zipp==3.1.0
