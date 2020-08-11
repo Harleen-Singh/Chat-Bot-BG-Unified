@@ -30,7 +30,7 @@ Markdown
 nltk 
 numpy 
 oauthlib==3.0.1
-opt-einsum==0+untagged.61.gd905544.dirty
+opt-einsum
 protobuf==3.12.4
 psycopg2==2.8.5
 pyasn1==0.4.8
